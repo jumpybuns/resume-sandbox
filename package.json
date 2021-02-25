@@ -61,7 +61,9 @@
   },
   "dependencies": {
     "react": "^17.0.1",
+    "react-clock": "^3.0.0",
     "react-dom": "^17.0.1",
+    "react-live-clock": "^5.0.16",
     "react-router-dom": "^5.2.0"
   }
 }
